@@ -8,7 +8,7 @@ Step 1: On the home page, click the Start free trial button to register your acc
 ![Screenshot 2024-03-04 184354]
 
 step 2: Check your mail to get the verified link sent by the Zen Desk clone. Click on the link, it will redirect to the login page. Then select the admin login button and enter your registered email and password. After successfully logging in, it will redirect to the dashboard.
-Custom login:{ email: saransj@gmail.com, pass : madan }
+Custom login:{ email: saransj@gmail.com, pass : saran }
 ![Screenshot 2024-03-04 185433](https://github.com/Madanraj0519/ZenDesk/assets/125730836/cb8da043-054d-415f-af79-b54fb0e65d96)
 
 step 3: In the dashboard, it shows the employee list created by the admin. if it is not there you can create your employees
